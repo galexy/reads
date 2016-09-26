@@ -1,0 +1,4 @@
+* Chapter 2 - The Vector
+
+The word *vector* comes from the Latin for "carrier." Vectors move something from one location to another.
+Vectors can be thought of as a list of numbers, each draw from a single field, such as $\mathbb{R}$.
